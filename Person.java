@@ -84,5 +84,5 @@ public class Person implements Serializable {
         return children;
     }
 
-    // Остальные методы остаются без изменений
+   
 }
